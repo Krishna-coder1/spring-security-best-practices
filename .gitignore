@@ -1,0 +1,50 @@
+# Compiled class files
+/target/
+*.class
+
+# Compiled Java source files
+*.jar
+
+# IntelliJ IDEA IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse IDE-specific files
+.classpath
+.project
+.settings/
+
+# Gradle files
+.gradle/
+build/
+
+# Maven files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot generated files
+spring-boot-starter.log
+application.properties
+
+# Logs
+logs/
+
+# Dependency directories
+bin/
+lib/
+
+# Compiled Webpack bundles
+/dist/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Miscellaneous
+*.log
+*.swp
+*.DS_Store
